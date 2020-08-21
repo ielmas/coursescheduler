@@ -1,0 +1,1 @@
+{"course_code": "MBG 699", "course_name": "MBG 699-1", "session": [{"session_number": "1", "teacher": "Ali Osmay Güre   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

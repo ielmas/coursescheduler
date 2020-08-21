@@ -1,0 +1,1 @@
+{"course_code": "ECON 591", "course_name": "ECON 591-1", "session": [{"session_number": "1", "teacher": "Fitnat Banu Pakel   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

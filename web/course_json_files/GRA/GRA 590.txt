@@ -1,0 +1,1 @@
+{"course_code": "GRA 590", "course_name": "GRA 590-1", "session": [{"session_number": "1", "teacher": "Staff", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

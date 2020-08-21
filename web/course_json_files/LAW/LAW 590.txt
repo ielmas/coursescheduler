@@ -1,0 +1,1 @@
+{"course_code": "LAW 590", "course_name": "LAW 590-1", "session": [{"session_number": "1", "teacher": "Hüseyin Can Aksoy   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

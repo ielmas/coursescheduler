@@ -1,0 +1,1 @@
+{"course_code": "EEE 424", "course_name": "EEE 424-1", "session": [{"session_number": "1", "teacher": "Orhan Arıkan   ", "hours": [{"day": "Tue", "start": "10:40", "end": "12:30", "place": " EE-05", "type": " "}, {"day": "Fri", "start": "08:40", "end": "09:30", "place": " EE-05", "type": "S"}, {"day": "Fri", "start": "09:40", "end": "10:30", "place": " EE-05", "type": " "}]}]}

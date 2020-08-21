@@ -1,0 +1,1 @@
+{"course_code": "LNG 115", "course_name": "LNG 115-1", "session": [{"session_number": "1", "teacher": "Staff", "hours": [{"day": "Tue", "start": "10:40", "end": "12:30", "place": " G-Z39", "type": " "}, {"day": "Fri", "start": "8:40", "end": "10:30", "place": " G-Z39", "type": " "}]}]}

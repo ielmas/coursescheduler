@@ -1,0 +1,1 @@
+{"course_code": "EDEB 544", "course_name": "EDEB 544-1", "session": [{"session_number": "1", "teacher": "Etienne Eugene Christian Charriere   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

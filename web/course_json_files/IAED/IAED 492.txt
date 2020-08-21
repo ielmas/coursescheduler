@@ -1,0 +1,1 @@
+{"course_code": "IAED 492", "course_name": "IAED 492-1", "session": [{"session_number": "1", "teacher": "Sevil Funda Ataylar   ", "hours": [{"day": "Fri", "start": "13:40", "end": "16:30", "place": " FF-312", "type": "L"}]}]}

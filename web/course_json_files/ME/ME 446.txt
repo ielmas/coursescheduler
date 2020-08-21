@@ -1,0 +1,1 @@
+{"course_code": "ME 446", "course_name": "ME 446-1", "session": [{"session_number": "1", "teacher": "İlker Temizer   ", "hours": [{"day": "Tue", "start": "13:40", "end": "15:30", "place": " EB-204", "type": " "}, {"day": "Thu", "start": "15:40", "end": "16:30", "place": " EB-204", "type": " "}, {"day": "Thu", "start": "16:40", "end": "17:30", "place": " EB-204", "type": "S"}]}]}

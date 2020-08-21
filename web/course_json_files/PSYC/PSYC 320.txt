@@ -1,0 +1,1 @@
+{"course_code": "PSYC 320", "course_name": "PSYC 320-1", "session": [{"session_number": "1", "teacher": "Ausaf Ahmed Farooqui   ", "hours": [{"day": "Tue", "start": "13:40", "end": "15:30", "place": "", "type": " "}, {"day": "Thu", "start": "15:40", "end": "16:30", "place": "", "type": " "}, {"day": "Thu", "start": "16:40", "end": "17:30", "place": " ", "type": "S"}]}]}

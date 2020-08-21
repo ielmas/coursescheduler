@@ -1,0 +1,1 @@
+{"course_code": "THM 418", "course_name": "THM 418-1", "session": [{"session_number": "1", "teacher": "Ayşe Keens   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}, {"session_number": "2", "teacher": "Mustafa Siyahhan   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

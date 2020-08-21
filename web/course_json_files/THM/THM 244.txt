@@ -1,0 +1,1 @@
+{"course_code": "THM 244", "course_name": "THM 244-1", "session": [{"session_number": "1", "teacher": "Yaşar Bülent Karaoğlu   ", "hours": [{"day": "Tue", "start": "8:40", "end": "12:30", "place": " RC-110", "type": "L"}]}]}

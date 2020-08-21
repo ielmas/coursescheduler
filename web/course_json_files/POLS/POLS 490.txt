@@ -1,0 +1,1 @@
+{"course_code": "POLS 490", "course_name": "POLS 490-1", "session": [{"session_number": "1", "teacher": "Aida Just   ", "hours": [{"day": "Tue", "start": "13:40", "end": "15:30", "place": " A-Z25", "type": " "}, {"day": "Thu", "start": "15:40", "end": "16:30", "place": " A-Z25", "type": " "}, {"day": "Thu", "start": "16:40", "end": "17:30", "place": " A-Z25", "type": "S"}]}]}

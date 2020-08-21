@@ -1,0 +1,1 @@
+{"course_code": "EEE 495", "course_name": "EEE 495-1", "session": [{"session_number": "1", "teacher": "Mehmet Alper Kutay   ", "hours": [{"day": "Mon", "start": "15:40", "end": "17:30", "place": " EB-102", "type": " "}, {"day": "Thu", "start": "13:40", "end": "15:30", "place": " EE-LAB103", "type": "L"}]}]}

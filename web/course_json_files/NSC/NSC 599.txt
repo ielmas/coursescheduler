@@ -1,0 +1,1 @@
+{"course_code": "NSC 599", "course_name": "NSC 599-1", "session": [{"session_number": "1", "teacher": "Michelle Marie Adams   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

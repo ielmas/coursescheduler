@@ -1,0 +1,1 @@
+{"course_code": "CS 413", "course_name": "CS 413-1", "session": [{"session_number": "1", "teacher": "Haluk Altunel   ", "hours": [{"day": "Tue", "start": "15:40", "end": "16:30", "place": " EB-203", "type": " "}, {"day": "Tue", "start": "16:40", "end": "17:30", "place": " EB-203", "type": "S"}, {"day": "Fri", "start": "13:40", "end": "15:30", "place": " EB-203", "type": " "}]}]}

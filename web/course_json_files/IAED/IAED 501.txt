@@ -1,0 +1,1 @@
+{"course_code": "IAED 501", "course_name": "IAED 501-1", "session": [{"session_number": "1", "teacher": "Yasemin Afacan   ", "hours": [{"day": "Thu", "start": "8:40", "end": "10:30", "place": " FF-301", "type": "L"}, {"day": "Thu", "start": "10:40", "end": "12:30", "place": " FF-301", "type": " "}]}]}

@@ -1,0 +1,1 @@
+{"course_code": "CS 527", "course_name": "CS 527-1", "session": [{"session_number": "1", "teacher": "Yavuz Oruç   ", "hours": [{"day": "Fri", "start": "15:40", "end": "18:30", "place": "", "type": " "}]}]}

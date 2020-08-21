@@ -1,0 +1,1 @@
+{"course_code": "TE 590", "course_name": "TE 590-1", "session": [{"session_number": "1", "teacher": "Margaret K. Sands   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

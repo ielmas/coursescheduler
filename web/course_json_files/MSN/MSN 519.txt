@@ -1,0 +1,1 @@
+{"course_code": "MSN 519", "course_name": "MSN 519-1", "session": [{"session_number": "1", "teacher": "Gürkan Yeşilöz   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

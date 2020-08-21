@@ -1,0 +1,1 @@
+{"course_code": "LNG 134", "course_name": "LNG 134-1", "session": [{"session_number": "1", "teacher": "Nurhan Turgut   ", "hours": [{"day": "Tue", "start": "8:40", "end": "10:30", "place": " G-Z37", "type": " "}, {"day": "Thu", "start": "10:40", "end": "12:30", "place": " G-Z37", "type": " "}]}]}

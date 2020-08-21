@@ -1,0 +1,1 @@
+{"course_code": "TE 524", "course_name": "TE 524-1", "session": [{"session_number": "1", "teacher": "Aikaterini Michou   ", "hours": [{"day": "Fri", "start": "8:40", "end": "10:30", "place": "", "type": " "}]}]}

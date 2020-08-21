@@ -1,0 +1,1 @@
+{"course_code": "HART 227", "course_name": "HART 227-1", "session": [{"session_number": "1", "teacher": "Dominique Tezgör Kassab   ", "hours": [{"day": "Tue", "start": "08:40", "end": "09:30", "place": " ", "type": "S"}, {"day": "Tue", "start": "09:40", "end": "10:30", "place": "", "type": " "}, {"day": "Thu", "start": "10:40", "end": "12:30", "place": "", "type": " "}]}]}

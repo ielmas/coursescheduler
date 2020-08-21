@@ -1,0 +1,1 @@
+{"course_code": "CHEM 200", "course_name": "CHEM 200-1", "session": [{"session_number": "1", "teacher": "Emrah Özensoy   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

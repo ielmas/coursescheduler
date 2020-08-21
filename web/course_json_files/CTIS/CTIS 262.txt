@@ -1,0 +1,1 @@
+{"course_code": "CTIS 262", "course_name": "CTIS 262-1", "session": [{"session_number": "1", "teacher": "Hamdi Murat Yıldırım   ", "hours": [{"day": "Tue", "start": "8:40", "end": "10:30", "place": " C-CTISL2", "type": " "}, {"day": "Thu", "start": "10:40", "end": "12:30", "place": " C-CTISL2", "type": " "}]}]}

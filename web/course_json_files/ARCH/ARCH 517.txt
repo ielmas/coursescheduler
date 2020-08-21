@@ -1,0 +1,1 @@
+{"course_code": "ARCH 517", "course_name": "ARCH 517-1", "session": [{"session_number": "1", "teacher": "Kristian Wren Frederickson   ", "hours": [{"day": "Fri", "start": "8:40", "end": "10:30", "place": " FF-216", "type": " "}, {"day": "Fri", "start": "10:40", "end": "12:30", "place": " FF-216", "type": "L"}]}]}

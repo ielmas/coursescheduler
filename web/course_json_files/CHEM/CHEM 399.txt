@@ -1,0 +1,1 @@
+{"course_code": "CHEM 399", "course_name": "CHEM 399-1", "session": [{"session_number": "1", "teacher": "Bilge Baytekin   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

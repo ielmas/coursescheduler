@@ -1,0 +1,1 @@
+{"course_code": "THM 121", "course_name": "THM 121-1", "session": [{"session_number": "1", "teacher": "Jamel Ben Chafra   ", "hours": [{"day": "Tue", "start": "15:40", "end": "17:30", "place": " RB-201", "type": " "}]}]}

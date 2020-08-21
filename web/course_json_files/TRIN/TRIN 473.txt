@@ -1,0 +1,1 @@
+{"course_code": "TRIN 473", "course_name": "TRIN 473-1", "session": [{"session_number": "1", "teacher": "Mehpare Çelik   ", "hours": [{"day": "Tue", "start": "15:40", "end": "17:30", "place": " LB-Z10", "type": " "}]}]}

@@ -1,0 +1,1 @@
+{"course_code": "HART 508", "course_name": "HART 508-1", "session": [{"session_number": "1", "teacher": "Thomas Zimmermann   ", "hours": [{"day": "Tue", "start": "15:40", "end": "16:30", "place": "", "type": " "}, {"day": "Tue", "start": "16:40", "end": "17:30", "place": " ", "type": "S"}, {"day": "Fri", "start": "13:40", "end": "15:30", "place": "", "type": " "}]}]}

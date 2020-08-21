@@ -1,0 +1,1 @@
+{"course_code": "GRA 131", "course_name": "GRA 131-1", "session": [{"session_number": "1", "teacher": "Mehmet Atıl Kurttekin   ", "hours": [{"day": "Tue", "start": "8:40", "end": "11:30", "place": " FB-120", "type": "L"}]}, {"session_number": "2", "teacher": "Staff", "hours": [{"day": "Wed", "start": "13:40", "end": "16:30", "place": " FB-120", "type": "L"}]}]}

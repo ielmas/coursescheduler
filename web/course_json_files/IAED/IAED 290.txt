@@ -1,0 +1,1 @@
+{"course_code": "IAED 290", "course_name": "IAED 290-1", "session": [{"session_number": "1", "teacher": "Tijen Sonkan Türkkan   \nBurcu Egel   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

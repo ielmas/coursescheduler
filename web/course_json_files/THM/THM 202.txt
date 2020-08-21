@@ -1,0 +1,1 @@
+{"course_code": "THM 202", "course_name": "THM 202-1", "session": [{"session_number": "1", "teacher": "Eda Gürel   ", "hours": [{"day": "Mon", "start": "13:40", "end": "15:30", "place": " RB-201", "type": " "}, {"day": "Wed", "start": "15:40", "end": "16:30", "place": " RB-201", "type": " "}, {"day": "Wed", "start": "16:40", "end": "17:30", "place": " RB-201", "type": "S"}]}]}

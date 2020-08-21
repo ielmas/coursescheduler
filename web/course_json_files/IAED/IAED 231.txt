@@ -1,0 +1,1 @@
+{"course_code": "IAED 231", "course_name": "IAED 231-1", "session": [{"session_number": "1", "teacher": "Alper Küçük   ", "hours": [{"day": "Wed", "start": "13:40", "end": "16:30", "place": " FF-308", "type": "L"}]}]}

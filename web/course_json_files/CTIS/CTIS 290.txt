@@ -1,0 +1,1 @@
+{"course_code": "CTIS 290", "course_name": "CTIS 290-1", "session": [{"session_number": "1", "teacher": "Nimet Ceren Serim   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

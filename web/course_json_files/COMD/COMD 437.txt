@@ -1,0 +1,1 @@
+{"course_code": "COMD 437", "course_name": "COMD 437-1", "session": [{"session_number": "1", "teacher": "Andreas Treske   ", "hours": [{"day": "Wed", "start": "13:40", "end": "16:30", "place": " FA-122", "type": "L"}]}]}

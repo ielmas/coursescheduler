@@ -1,0 +1,1 @@
+{"course_code": "ECON 432", "course_name": "ECON 432-1", "session": [{"session_number": "1", "teacher": "Mustafa Ferhat Emil   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

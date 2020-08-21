@@ -1,0 +1,1 @@
+{"course_code": "LAW 407", "course_name": "LAW 407-1", "session": [{"session_number": "1", "teacher": "Mustafa Akkaya   ", "hours": [{"day": "Mon", "start": "15:40", "end": "16:30", "place": " G-140", "type": " "}, {"day": "Mon", "start": "16:40", "end": "17:30", "place": " G-140", "type": "S"}, {"day": "Thu", "start": "13:40", "end": "15:30", "place": " G-140", "type": " "}]}]}

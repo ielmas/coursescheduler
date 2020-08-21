@@ -1,0 +1,1 @@
+{"course_code": "TE 555", "course_name": "TE 555-1", "session": [{"session_number": "1", "teacher": "Staff", "hours": [{"day": "Mon", "start": "15:40", "end": "16:30", "place": " G-255", "type": " "}, {"day": "Mon", "start": "16:40", "end": "17:30", "place": " G-255", "type": "S"}, {"day": "Thu", "start": "8:40", "end": "12:30", "place": " ", "type": "L"}]}]}

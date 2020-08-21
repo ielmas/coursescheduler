@@ -1,0 +1,1 @@
+{"course_code": "PSYC 498", "course_name": "PSYC 498-1", "session": [{"session_number": "1", "teacher": "Miri Besken   \nAthanasios Mouratidis   \nAlba Tuninetti   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

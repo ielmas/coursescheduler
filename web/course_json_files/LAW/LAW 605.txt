@@ -1,0 +1,1 @@
+{"course_code": "LAW 605", "course_name": "LAW 605-1", "session": [{"session_number": "1", "teacher": "Erdal Onar   ", "hours": [{"day": "Wed", "start": "13:40", "end": "15:30", "place": " B-105", "type": " "}, {"day": "Fri", "start": "15:40", "end": "16:30", "place": " B-105", "type": " "}, {"day": "Fri", "start": "16:40", "end": "17:30", "place": " B-105", "type": "S"}]}]}

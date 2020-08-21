@@ -1,0 +1,1 @@
+{"course_code": "GRA 390", "course_name": "GRA 390-1", "session": [{"session_number": "1", "teacher": "Mehmet Atıl Kurttekin   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

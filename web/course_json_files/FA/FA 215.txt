@@ -1,0 +1,1 @@
+{"course_code": "FA 215", "course_name": "FA 215-1", "session": [{"session_number": "1", "teacher": "Ercan Sağlam   ", "hours": [{"day": "Tue", "start": "8:40", "end": "11:30", "place": " FC-123", "type": "L"}]}, {"session_number": "2", "teacher": "Ercan Sağlam   ", "hours": [{"day": "Tue", "start": "13:40", "end": "16:30", "place": " FC-123", "type": "L"}]}]}

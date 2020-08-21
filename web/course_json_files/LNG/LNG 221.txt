@@ -1,0 +1,1 @@
+{"course_code": "LNG 221", "course_name": "LNG 221-1", "session": [{"session_number": "1", "teacher": "Simay Erden Tuğlu   ", "hours": [{"day": "Mon", "start": "10:40", "end": "12:30", "place": " G-Z10", "type": " "}, {"day": "Thu", "start": "8:40", "end": "10:30", "place": " G-Z10", "type": " "}]}]}

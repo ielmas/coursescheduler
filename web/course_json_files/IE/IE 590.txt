@@ -1,0 +1,1 @@
+{"course_code": "IE 590", "course_name": "IE 590-1", "session": [{"session_number": "1", "teacher": "Alper Şen   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

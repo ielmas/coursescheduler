@@ -1,0 +1,1 @@
+{"course_code": "PSYC 673", "course_name": "PSYC 673-1", "session": [{"session_number": "1", "teacher": "Jedediah Wilfred Papas Allen   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

@@ -1,0 +1,1 @@
+{"course_code": "IAED 394", "course_name": "IAED 394-1", "session": [{"session_number": "1", "teacher": "Irmak Özman   ", "hours": [{"day": "Tue", "start": "13:40", "end": "16:30", "place": " FF-101", "type": "L"}]}]}

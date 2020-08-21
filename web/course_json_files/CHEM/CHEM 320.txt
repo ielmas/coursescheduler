@@ -1,0 +1,1 @@
+{"course_code": "CHEM 320", "course_name": "CHEM 320-1", "session": [{"session_number": "1", "teacher": "Şefik Süzer   ", "hours": [{"day": "Fri", "start": "8:40", "end": "12:30", "place": " ", "type": "L"}]}]}

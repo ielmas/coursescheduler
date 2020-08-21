@@ -1,0 +1,1 @@
+{"course_code": "PHYS 491", "course_name": "PHYS 491-1", "session": [{"session_number": "1", "teacher": "Staff", "hours": [{"day": "Mon", "start": "13:40", "end": "15:30", "place": "", "type": " "}, {"day": "Wed", "start": "15:40", "end": "16:30", "place": "", "type": " "}, {"day": "Wed", "start": "16:40", "end": "17:30", "place": " ", "type": "S"}]}]}

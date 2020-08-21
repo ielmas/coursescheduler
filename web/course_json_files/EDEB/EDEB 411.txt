@@ -1,0 +1,1 @@
+{"course_code": "EDEB 411", "course_name": "EDEB 411-1", "session": [{"session_number": "1", "teacher": "Staff", "hours": [{"day": "Mon", "start": "13:40", "end": "15:30", "place": " MA-101", "type": " "}, {"day": "Wed", "start": "15:40", "end": "17:30", "place": " MA-101", "type": " "}]}]}

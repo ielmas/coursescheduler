@@ -1,0 +1,1 @@
+{"course_code": "PSYC 434", "course_name": "PSYC 434-1", "session": [{"session_number": "1", "teacher": "Mais Aljunaidy   ", "hours": [{"day": "Mon", "start": "08:40", "end": "09:30", "place": " ", "type": "S"}, {"day": "Mon", "start": "09:40", "end": "10:30", "place": "", "type": " "}, {"day": "Wed", "start": "10:40", "end": "12:30", "place": "", "type": " "}]}]}

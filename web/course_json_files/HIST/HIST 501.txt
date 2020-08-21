@@ -1,0 +1,1 @@
+{"course_code": "HIST 501", "course_name": "HIST 501-1", "session": [{"session_number": "1", "teacher": "Özer Ergenç   ", "hours": [{"day": "Mon", "start": "10:40", "end": "12:30", "place": " A-Z31", "type": " "}, {"day": "Thu", "start": "8:40", "end": "10:30", "place": " A-Z31", "type": " "}]}]}

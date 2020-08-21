@@ -1,0 +1,1 @@
+{"course_code": "LAUD 242", "course_name": "LAUD 242-1", "session": [{"session_number": "1", "teacher": "Didem Dizdaroğlu   ", "hours": [{"day": "Fri", "start": "8:40", "end": "10:30", "place": " FA-118", "type": " "}, {"day": "Fri", "start": "10:40", "end": "12:30", "place": " FA-118", "type": "L"}]}]}

@@ -1,0 +1,1 @@
+{"course_code": "BF 422", "course_name": "BF 422-1", "session": [{"session_number": "1", "teacher": "Staff", "hours": [{"day": "Wed", "start": "8:40", "end": "10:30", "place": " LB-Z09", "type": " "}, {"day": "Thu", "start": "10:40", "end": "12:30", "place": " LD-4", "type": "L"}]}]}

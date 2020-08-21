@@ -1,0 +1,1 @@
+{"course_code": "LNG 114", "course_name": "LNG 114-1", "session": [{"session_number": "1", "teacher": "Engin Karacaören   ", "hours": [{"day": "Tue", "start": "15:40", "end": "17:30", "place": " G-Z54", "type": " "}, {"day": "Fri", "start": "13:40", "end": "15:30", "place": " G-Z54", "type": " "}]}]}

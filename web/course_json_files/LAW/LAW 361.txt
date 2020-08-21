@@ -1,0 +1,1 @@
+{"course_code": "LAW 361", "course_name": "LAW 361-1", "session": [{"session_number": "1", "teacher": "Gülriz Uygur   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

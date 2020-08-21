@@ -1,0 +1,1 @@
+{"course_code": "AMER 390", "course_name": "AMER 390-1", "session": [{"session_number": "1", "teacher": "Emine Lale Demirtürk   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

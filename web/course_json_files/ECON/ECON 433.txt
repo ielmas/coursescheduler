@@ -1,0 +1,1 @@
+{"course_code": "ECON 433", "course_name": "ECON 433-1", "session": [{"session_number": "1", "teacher": "Çağla Ökten   ", "hours": [{"day": "Tue", "start": "15:40", "end": "16:30", "place": " A-Z25", "type": " "}, {"day": "Tue", "start": "16:40", "end": "17:30", "place": " A-Z25", "type": "S"}, {"day": "Fri", "start": "13:40", "end": "15:30", "place": " A-Z25", "type": " "}]}]}

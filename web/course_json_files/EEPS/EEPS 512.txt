@@ -1,0 +1,1 @@
+{"course_code": "EEPS 512", "course_name": "EEPS 512-1", "session": [{"session_number": "1", "teacher": "Bilgin Tiryakioğlu   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

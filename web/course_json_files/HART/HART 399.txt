@@ -1,0 +1,1 @@
+{"course_code": "HART 399", "course_name": "HART 399-1", "session": [{"session_number": "1", "teacher": "Jacques Morin   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

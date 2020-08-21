@@ -1,0 +1,1 @@
+{"course_code": "EEE 528", "course_name": "EEE 528-1", "session": [{"session_number": "1", "teacher": "Orhan Aytür   ", "hours": [{"day": "Tue", "start": "08:40", "end": "09:30", "place": " EB-204", "type": "S"}, {"day": "Tue", "start": "09:40", "end": "10:30", "place": " EB-204", "type": " "}, {"day": "Thu", "start": "10:40", "end": "12:30", "place": " EB-204", "type": " "}]}]}

@@ -1,0 +1,1 @@
+{"course_code": "TEFL 550", "course_name": "TEFL 550-1", "session": [{"session_number": "1", "teacher": "Staff", "hours": [{"day": "Wed", "start": "13:40", "end": "15:30", "place": "", "type": " "}]}]}

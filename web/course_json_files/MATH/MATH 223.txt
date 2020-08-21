@@ -1,0 +1,1 @@
+{"course_code": "MATH 223", "course_name": "MATH 223-1", "session": [{"session_number": "1", "teacher": "Staff", "hours": [{"day": "Mon", "start": "10:40", "end": "12:30", "place": "", "type": " "}, {"day": "Thu", "start": "08:40", "end": "09:30", "place": " ", "type": "S"}, {"day": "Thu", "start": "09:40", "end": "10:30", "place": "", "type": " "}]}]}

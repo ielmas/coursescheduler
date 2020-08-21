@@ -1,0 +1,1 @@
+{"course_code": "LNG 232", "course_name": "LNG 232-1", "session": [{"session_number": "1", "teacher": "Nam Sig Yang   ", "hours": [{"day": "Tue", "start": "8:40", "end": "10:30", "place": " G-Z54", "type": " "}, {"day": "Thu", "start": "10:40", "end": "12:30", "place": " G-Z54", "type": " "}]}]}

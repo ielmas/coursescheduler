@@ -1,0 +1,1 @@
+{"course_code": "THM 323", "course_name": "THM 323-1", "session": [{"session_number": "1", "teacher": "Elif Denizci   ", "hours": [{"day": "Tue", "start": "8:40", "end": "14:30", "place": " RC-110", "type": "L"}]}, {"session_number": "2", "teacher": "Elif Denizci   ", "hours": [{"day": "Wed", "start": "8:40", "end": "14:30", "place": " RC-110", "type": "L"}]}]}

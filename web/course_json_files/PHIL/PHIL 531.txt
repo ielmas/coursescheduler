@@ -1,0 +1,1 @@
+{"course_code": "PHIL 531", "course_name": "PHIL 531-1", "session": [{"session_number": "1", "teacher": "Yehezkel S. Berkovski   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

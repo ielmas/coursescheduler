@@ -1,0 +1,1 @@
+{"course_code": "TE 519", "course_name": "TE 519-1", "session": [{"session_number": "1", "teacher": "Armağan Ateşkan   ", "hours": [{"day": "Tue", "start": "8:40", "end": "10:30", "place": "", "type": " "}]}]}

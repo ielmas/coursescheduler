@@ -1,0 +1,1 @@
+{"course_code": "THM 246", "course_name": "THM 246-1", "session": [{"session_number": "1", "teacher": "Ali Ünal   ", "hours": [{"day": "Tue", "start": "8:40", "end": "14:30", "place": " RC-109", "type": "L"}]}, {"session_number": "2", "teacher": "Ali Ünal   ", "hours": [{"day": "Wed", "start": "8:40", "end": "14:30", "place": " RC-109", "type": "L"}]}]}

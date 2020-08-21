@@ -1,0 +1,1 @@
+{"course_code": "EDEB 401", "course_name": "EDEB 401-1", "session": [{"session_number": "1", "teacher": "Mehmet Kalpaklı   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

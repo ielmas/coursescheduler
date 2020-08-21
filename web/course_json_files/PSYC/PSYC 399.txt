@@ -1,0 +1,1 @@
+{"course_code": "PSYC 399", "course_name": "PSYC 399-1", "session": [{"session_number": "1", "teacher": "Selin Salman Engin   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

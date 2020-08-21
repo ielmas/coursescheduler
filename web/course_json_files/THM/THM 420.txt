@@ -1,0 +1,1 @@
+{"course_code": "THM 420", "course_name": "THM 420-1", "session": [{"session_number": "1", "teacher": "Ayşe Nuriye Örer   ", "hours": [{"day": "Thu", "start": "10:40", "end": "12:30", "place": " RC-202", "type": " "}]}]}

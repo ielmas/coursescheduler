@@ -1,0 +1,1 @@
+{"course_code": "GRA 210", "course_name": "GRA 210-1", "session": [{"session_number": "1", "teacher": "Erhan Tunalı   ", "hours": [{"day": "Tue", "start": "8:40", "end": "11:30", "place": " FB-314", "type": "L"}]}, {"session_number": "2", "teacher": "Mehmet Atıl Kurttekin   ", "hours": [{"day": "Tue", "start": "13:40", "end": "16:30", "place": " FB-221", "type": "L"}]}]}

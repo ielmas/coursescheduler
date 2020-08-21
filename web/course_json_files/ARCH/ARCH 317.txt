@@ -1,0 +1,1 @@
+{"course_code": "ARCH 317", "course_name": "ARCH 317-1", "session": [{"session_number": "1", "teacher": "Yavuz Baver Barut   ", "hours": [{"day": "Tue", "start": "13:40", "end": "15:30", "place": " FF-201", "type": "L"}, {"day": "Tue", "start": "15:40", "end": "17:30", "place": " FF-201", "type": " "}]}]}

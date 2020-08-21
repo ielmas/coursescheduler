@@ -1,0 +1,1 @@
+{"course_code": "TE 573", "course_name": "TE 573-1", "session": [{"session_number": "1", "teacher": "Tijen Akşit   ", "hours": [{"day": "Wed", "start": "13:40", "end": "15:30", "place": "", "type": " "}, {"day": "Thu", "start": "8:40", "end": "12:30", "place": " ", "type": "L"}, {"day": "Fri", "start": "13:40", "end": "15:30", "place": " ", "type": "L"}]}]}

@@ -1,0 +1,1 @@
+{"course_code": "LNG 173", "course_name": "LNG 173-1", "session": [{"session_number": "1", "teacher": "Özlem Aksu Kurtoğlu   ", "hours": [{"day": "Wed", "start": "8:40", "end": "10:30", "place": " G-110", "type": " "}, {"day": "Fri", "start": "10:40", "end": "12:30", "place": " G-110", "type": " "}]}]}

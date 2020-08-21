@@ -1,0 +1,1 @@
+{"course_code": "EDEB 619", "course_name": "EDEB 619-1", "session": [{"session_number": "1", "teacher": "Peter James Cherry   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

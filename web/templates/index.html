@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Course Arranger</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'web/style.css' %}" />
+  </head>
+  <body style="background-color: #ab9a9a;">
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="{% static 'web/js.js' %}"
+    ></script>
+    <script></script>
+    <div class="left" style="align-self: start;">
+      <form class="course_selector" name="headerForm" action="">
+        <!-- <label for="name_departments">:</label> -->
+        <select name="name_departments" id="id_departments"> </select>
+        <select name="name_courses" id="id_courses"> </select>
+        <!-- <input id="id_add_button" name="name_add_button" value="Add" /> -->
+        <button id="id_add_button" name="name_add_button" value="Add">
+          Add
+        </button>
+      </form>
+      <button id="id_calculate_button">Schedule</button>
+      <table name="all_courses" id="id_all_courses">
+        <thead>
+          <th>x</th>
+          <th style="font-size: large; width: 8%; background-color: #deb887;">
+            Code
+          </th>
+          <th style="font-size: x-large; background-color: wheat;">Section</th>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <div class="right" style="align-self: start; margin-left: 50px;">
+      <!-- <div id="id_header_div">
+        <a1 class="name_of_webpage">COURSE ARRANGER</a1>
+      </div> -->
+      <div
+        class="class_avaliable_plans"
+        id="avaliable_plan_buttons"
+        style="width: 1000px;"
+      >
+        <!-- <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button>
+        <button class="plan_button">1</button> -->
+      </div>
+      <div id="id_plan_buttons"></div>
+      <table
+        name="all_courses"
+        id="id_all_courses"
+        style="width: 100%; border-style: solid;"
+      >
+        <thead style="background-color: antiquewhite;">
+          <th>Hour</th>
+          <th>Monday</th>
+          <th>Tuesday</th>
+          <th>Wednesday</th>
+          <th>Thursday</th>
+          <th>Friday</th>
+        </thead>
+        <tbody style="text-align: center;">
+          <tr>
+            <td class="schedule_lecture_cell schedule_lecture_hour_cell">
+              8.40-9.30
+            </td>
+            <td class="schedule_lecture_cell" id="12"></td>
+            <td class="schedule_lecture_cell" id="13"></td>
+            <td class="schedule_lecture_cell" id="14"></td>
+            <td class="schedule_lecture_cell" id="15"></td>
+            <td class="schedule_lecture_cell" id="16"></td>
+          </tr>
+          <tr>
+            <td class="schedule_lecture_cell schedule_lecture_hour_cell">
+              9.40-10.30
+            </td>
+            <td class="schedule_lecture_cell" id="22"></td>
+            <td class="schedule_lecture_cell" id="23"></td>
+            <td class="schedule_lecture_cell" id="24"></td>
+            <td class="schedule_lecture_cell" id="25"></td>
+            <td class="schedule_lecture_cell" id="26"></td>
+          </tr>
+          <tr>
+            <td class="schedule_lecture_cell schedule_lecture_hour_cell">
+              10.40-11.30
+            </td>
+            <td class="schedule_lecture_cell" id="32"></td>
+            <td class="schedule_lecture_cell" id="33"></td>
+            <td class="schedule_lecture_cell" id="34"></td>
+            <td class="schedule_lecture_cell" id="35"></td>
+            <td class="schedule_lecture_cell" id="36"></td>
+          </tr>
+          <tr>
+            <td class="schedule_lecture_cell schedule_lecture_hour_cell">
+              11.40-12.30
+            </td>
+            <td class="schedule_lecture_cell" id="42"></td>
+            <td class="schedule_lecture_cell" id="43"></td>
+            <td class="schedule_lecture_cell" id="44"></td>
+            <td class="schedule_lecture_cell" id="45"></td>
+            <td class="schedule_lecture_cell" id="46"></td>
+          </tr>
+          <tr>
+            <td class="schedule_lecture_cell schedule_lecture_hour_cell">
+              LUNCH
+            </td>
+            <td class="schedule_lecture_cell">LUNCH</td>
+            <td class="schedule_lecture_cell">LUNCH</td>
+            <td class="schedule_lecture_cell">LUNCH</td>
+            <td class="schedule_lecture_cell">LUNCH</td>
+            <td class="schedule_lecture_cell">LUNCH</td>
+          </tr>
+          <tr>
+            <td class="schedule_lecture_cell schedule_lecture_hour_cell">
+              12.40-13.30
+            </td>
+            <td class="schedule_lecture_cell" id="62"></td>
+            <td class="schedule_lecture_cell" id="63"></td>
+            <td class="schedule_lecture_cell" id="64"></td>
+            <td class="schedule_lecture_cell" id="65"></td>
+            <td class="schedule_lecture_cell" id="66"></td>
+          </tr>
+          <tr>
+            <td class="schedule_lecture_cell schedule_lecture_hour_cell">
+              13.40-14.30
+            </td>
+            <td class="schedule_lecture_cell" id="72"></td>
+            <td class="schedule_lecture_cell" id="73"></td>
+            <td class="schedule_lecture_cell" id="74"></td>
+            <td class="schedule_lecture_cell" id="75"></td>
+            <td class="schedule_lecture_cell" id="76"></td>
+          </tr>
+          <tr>
+            <td class="schedule_lecture_cell schedule_lecture_hour_cell">
+              14.40-15.30
+            </td>
+            <td class="schedule_lecture_cell" id="82"></td>
+            <td class="schedule_lecture_cell" id="83"></td>
+            <td class="schedule_lecture_cell" id="84"></td>
+            <td class="schedule_lecture_cell" id="85"></td>
+            <td class="schedule_lecture_cell" id="86"></td>
+          </tr>
+          <tr>
+            <td class="schedule_lecture_cell schedule_lecture_hour_cell">
+              16.40-17.30
+            </td>
+            <td class="schedule_lecture_cell" id="92"></td>
+            <td class="schedule_lecture_cell" id="93"></td>
+            <td class="schedule_lecture_cell" id="94"></td>
+            <td class="schedule_lecture_cell" id="95"></td>
+            <td class="schedule_lecture_cell" id="96"></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <script>
+      var deparments = document.getElementById("id_departments");
+      var course_select_list = document.headerForm.name_courses;
+      var department_select_list = document.headerForm.name_departments;
+      var add_button = document.headerForm.name_add_button;
+      var calculate_button = document.getElementById("id_calculate_button");
+      var courses_dic = {};
+      var chosen_sections = {};
+      var courses_with_sections_and_hours = {};
+      var cells_with_number = {};
+      var avaliable_plans = {};
+      init_deparment_and_courses(department_select_list, course_select_list);
+
+      var plan_buttons = document.getElementById("avaliable_plan_buttons");
+      calculate_button.onclick = function () {
+        sendCoursesToGetPlan(
+          courses_dic,
+          chosen_sections,
+          avaliable_plans,
+          plan_buttons
+        );
+        //console.log(avaliable_plans);
+      };
+      deparments.onchange = function () {
+        var deparment = deparments.value;
+        load_courses(course_select_list, deparment);
+      };
+
+      add_button.onclick = function () {
+        var json = getSections(
+          department_select_list.value,
+          course_select_list.value
+        );
+
+        section_datas = {};
+        json.then(function (data) {
+          section_datas["course_code"] = data["course_code"];
+          if (courses_dic[data["course_code"]] != null) {
+            return;
+          }
+          section_datas["course_name"] = data["course_name"];
+          section_datas["sections"] = [];
+          for (i = 0; i < data["session"].length; i++) {
+            data_section = data["session"][i];
+            section = {};
+            section["session_number"] = data_section["session_number"];
+            section["teacher"] = data_section["teacher"];
+            section["hours"] = [];
+            for (j = 0; j < data_section["hours"].length; j++) {
+              data_hour = data_section["hours"][j];
+              hour = {};
+              hour["day"] = data_hour["day"];
+              hour["start"] = data_hour["start"];
+              hour["end"] = data_hour["end"];
+              hour["place"] = data_hour["place"];
+              hour["type"] = data_hour["type"];
+              section["hours"].push(hour);
+            }
+            section_datas["sections"].push(section);
+          }
+          //console.log(section_datas);
+
+          courses_dic[section_datas["course_code"]] = section_datas;
+
+          //console.log(courses_dic);
+          // delete courses_dic[section_datas["course_name"]];// = null;
+          // console.log(courses_dic);
+          var tableBody = document
+            .getElementById("id_all_courses")
+            .getElementsByTagName("tbody")[0];
+
+          addCourseToTable(
+            tableBody,
+            section_datas,
+            courses_dic,
+            chosen_sections,
+            courses_with_sections_and_hours,
+            cells_with_number,
+            avaliable_plans,
+            plan_buttons
+          );
+        });
+
+        return false;
+      };
+    </script>
+  </body>
+</html>

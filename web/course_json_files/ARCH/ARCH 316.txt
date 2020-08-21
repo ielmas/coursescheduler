@@ -1,0 +1,1 @@
+{"course_code": "ARCH 316", "course_name": "ARCH 316-1", "session": [{"session_number": "1", "teacher": "Ahmet Ünveren   ", "hours": [{"day": "Tue", "start": "13:40", "end": "15:30", "place": " FF-216", "type": "L"}, {"day": "Tue", "start": "15:40", "end": "17:30", "place": " FF-216", "type": " "}]}]}

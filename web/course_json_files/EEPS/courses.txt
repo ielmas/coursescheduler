@@ -1,0 +1,1 @@
+{"courses": ["EEPS 505", "EEPS 506", "EEPS 509", "EEPS 512", "EEPS 520", "EEPS 525", "EEPS 590", "EEPS 599"]}

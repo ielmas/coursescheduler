@@ -1,0 +1,1 @@
+{"course_code": "MBG 612", "course_name": "MBG 612-1", "session": [{"session_number": "1", "teacher": "Serkan Belkaya   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

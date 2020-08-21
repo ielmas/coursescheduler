@@ -1,0 +1,1 @@
+{"course_code": "IE 448", "course_name": "IE 448-1", "session": [{"session_number": "1", "teacher": "Hasan Semih Ergür   ", "hours": [{"day": "Mon", "start": "16:40", "end": "19:30", "place": " EA-Z01", "type": " "}]}, {"session_number": "2", "teacher": "Hasan Semih Ergür   ", "hours": [{"day": "Tue", "start": "16:40", "end": "19:30", "place": " EA-Z01", "type": " "}]}]}

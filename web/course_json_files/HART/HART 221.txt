@@ -1,0 +1,1 @@
+{"course_code": "HART 221", "course_name": "HART 221-1", "session": [{"session_number": "1", "teacher": "Julian Bennett   ", "hours": [{"day": "Tue", "start": "08:40", "end": "09:30", "place": " ", "type": "S"}, {"day": "Tue", "start": "09:40", "end": "10:30", "place": "", "type": " "}, {"day": "Thu", "start": "10:40", "end": "12:30", "place": "", "type": " "}]}]}

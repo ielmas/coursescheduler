@@ -1,0 +1,1 @@
+{"course_code": "TE 531", "course_name": "TE 531-1", "session": [{"session_number": "1", "teacher": "Necmi Akşit   ", "hours": [{"day": "Mon", "start": "10:40", "end": "12:30", "place": " G-253", "type": " "}, {"day": "Tue", "start": "13:40", "end": "15:30", "place": " ", "type": "L"}]}]}

@@ -1,0 +1,1 @@
+{"course_code": "GE 401", "course_name": "GE 401-1", "session": [{"session_number": "1", "teacher": "H. Altay Güvenir   \nYiğit Karpat   \nMehmet Alper Kutay   ", "hours": [{"day": "Wed", "start": "13:40", "end": "15:30", "place": "", "type": " "}, {"day": "Fri", "start": "15:40", "end": "17:30", "place": " EA-302", "type": "L"}]}]}

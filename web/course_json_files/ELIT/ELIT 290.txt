@@ -1,0 +1,1 @@
+{"course_code": "ELIT 290", "course_name": "ELIT 290-1", "session": [{"session_number": "1", "teacher": "Ayşe Çelikkol   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

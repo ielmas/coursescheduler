@@ -1,0 +1,1 @@
+{"course_code": "FA 211", "course_name": "FA 211-1", "session": [{"session_number": "1", "teacher": "Beata Malgorzata Zalewska Sladczyk   ", "hours": [{"day": "Tue", "start": "8:40", "end": "11:30", "place": " FB-320", "type": "L"}]}]}

@@ -1,0 +1,1 @@
+{"course_code": "FA 203", "course_name": "FA 203-1", "session": [{"session_number": "1", "teacher": "Ahmet Özsalar   ", "hours": [{"day": "Fri", "start": "8:40", "end": "12:30", "place": " FC-213", "type": "L"}]}]}

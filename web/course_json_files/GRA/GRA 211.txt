@@ -1,0 +1,1 @@
+{"course_code": "GRA 211", "course_name": "GRA 211-1", "session": [{"session_number": "1", "teacher": "Fulya Gürer   ", "hours": [{"day": "Wed", "start": "13:40", "end": "16:30", "place": " FB-321", "type": "L"}]}, {"session_number": "2", "teacher": "Ahmet Gökhan Numanoğlu   ", "hours": [{"day": "Tue", "start": "8:40", "end": "11:30", "place": " FB-221", "type": "L"}]}]}

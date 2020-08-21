@@ -1,0 +1,1 @@
+{"course_code": "LNG 163", "course_name": "LNG 163-1", "session": [{"session_number": "1", "teacher": "Gülnara Tanrıkulu   ", "hours": [{"day": "Mon", "start": "13:40", "end": "15:30", "place": " G-Z53", "type": " "}, {"day": "Wed", "start": "15:40", "end": "17:30", "place": " G-Z53", "type": " "}]}]}

@@ -1,0 +1,1 @@
+{"course_code": "MATH 242", "course_name": "MATH 242-1", "session": [{"session_number": "1", "teacher": "Arif Bülent Özgüler   ", "hours": [{"day": "Tue", "start": "13:40", "end": "15:30", "place": " EE-05", "type": " "}, {"day": "Thu", "start": "15:40", "end": "17:30", "place": " EE-05", "type": " "}]}]}

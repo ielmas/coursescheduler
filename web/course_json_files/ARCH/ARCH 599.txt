@@ -1,0 +1,1 @@
+{"course_code": "ARCH 599", "course_name": "ARCH 599-1", "session": [{"session_number": "1", "teacher": "Burcu Şenyapılı Özcan   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

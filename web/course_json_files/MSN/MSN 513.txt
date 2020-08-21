@@ -1,0 +1,1 @@
+{"course_code": "MSN 513", "course_name": "MSN 513-1", "session": [{"session_number": "1", "teacher": "Fatih İnci   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

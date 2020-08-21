@@ -1,0 +1,1 @@
+{"course_code": "COMD 590", "course_name": "COMD 590-1", "session": [{"session_number": "1", "teacher": "Colleen Bevin Kennedy Karpat   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

@@ -1,0 +1,1 @@
+{"course_code": "FA 207", "course_name": "FA 207-1", "session": [{"session_number": "1", "teacher": "Düral Kadıoğlu   ", "hours": [{"day": "Thu", "start": "8:40", "end": "11:30", "place": " FC-213", "type": "L"}]}, {"session_number": "2", "teacher": "Düral Kadıoğlu   ", "hours": [{"day": "Thu", "start": "13:40", "end": "16:30", "place": " FC-213", "type": "L"}]}]}

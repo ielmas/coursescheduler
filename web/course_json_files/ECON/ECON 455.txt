@@ -1,0 +1,1 @@
+{"course_code": "ECON 455", "course_name": "ECON 455-1", "session": [{"session_number": "1", "teacher": "Staff", "hours": [{"day": "Tue", "start": "10:40", "end": "12:30", "place": " A-330", "type": " "}, {"day": "Fri", "start": "08:40", "end": "09:30", "place": " A-330", "type": "S"}, {"day": "Fri", "start": "09:40", "end": "10:30", "place": " A-330", "type": " "}]}]}

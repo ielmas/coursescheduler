@@ -1,0 +1,1 @@
+{"course_code": "THM 125", "course_name": "THM 125-1", "session": [{"session_number": "1", "teacher": "Esin Şenol   ", "hours": [{"day": "Mon", "start": "13:40", "end": "15:30", "place": " RB-202", "type": " "}, {"day": "Wed", "start": "15:40", "end": "17:30", "place": " RB-202", "type": " "}]}]}

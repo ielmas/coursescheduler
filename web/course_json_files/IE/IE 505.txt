@@ -1,0 +1,1 @@
+{"course_code": "IE 505", "course_name": "IE 505-1", "session": [{"session_number": "1", "teacher": "Firdevs Ulus   ", "hours": [{"day": "Tue", "start": "08:40", "end": "09:30", "place": " EA-302", "type": "S"}, {"day": "Tue", "start": "09:40", "end": "10:30", "place": " EA-302", "type": " "}, {"day": "Thu", "start": "10:40", "end": "12:30", "place": " EA-302", "type": " "}]}]}

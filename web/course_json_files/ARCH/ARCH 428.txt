@@ -1,0 +1,1 @@
+{"course_code": "ARCH 428", "course_name": "ARCH 428-1", "session": [{"session_number": "1", "teacher": "Özge Selen Duran   ", "hours": [{"day": "Tue", "start": "13:40", "end": "16:30", "place": " FF-213", "type": "L"}]}]}

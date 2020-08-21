@@ -1,0 +1,86 @@
+body {
+  display: flex;
+  align-items: center;
+}
+.course_selector {
+  margin-right: 50px;
+  /* width: fit-content;
+  height: auto; */
+  display: inline;
+}
+.name_of_webpage {
+  font-size: xx-large;
+}
+.class_course_code {
+  text-align: center;
+  background-color: wheat;
+}
+.class_course_row {
+  border: 3px solid blueviolet;
+}
+.class_course_code {
+  border-right: 2px dashed;
+  border-right-color: chocolate;
+}
+.class_section_rows {
+  border-top: 3px dashed;
+  border-top-color: red;
+}
+.class_default_table {
+  border-collapse: collapse;
+  width: -webkit-fill-available;
+}
+.schedule_lecture_cell {
+  width: 50px;
+  height: 75px;
+  border: 2px solid #0e8787;
+  background-color: #ffe500;
+}
+.schedule_lecture_hour_cell {
+  width: 25px;
+}
+.plan_button {
+  width: 5%;
+  margin: 3px;
+  background-color: aquamarine;
+}
+#id_departments {
+  background-color: #38b738;
+  width: 20%;
+  margin-right: 30px;
+  font-size: x-large;
+}
+#id_courses {
+  font-size: x-large;
+  width: 22%;
+  background-color: #c97777;
+  margin-right: 30px;
+}
+
+#id_add_button {
+  font-size: x-large;
+  width: 10%;
+  background-color: #7070fa;
+}
+
+#id_all_courses {
+  border-collapse: collapse;
+  border-style: dashed;
+  border-width: 2px;
+  border-color: black;
+  width: 100%;
+}
+
+#id_header_div {
+  justify-items: center;
+}
+
+#id_calculate_button {
+  background-color: #eadf7b;
+  margin-top: 15px;
+  margin-left: 15%;
+  margin-bottom: 15px;
+  font-size: 2em;
+  padding-left: 25px;
+  padding-right: 25px;
+}

@@ -1,0 +1,1 @@
+{"course_code": "ARCH 590", "course_name": "ARCH 590-1", "session": [{"session_number": "1", "teacher": "Aysu Berk   ", "hours": [{"day": "", "start": "", "end": "", "place": "", "type": " "}]}]}

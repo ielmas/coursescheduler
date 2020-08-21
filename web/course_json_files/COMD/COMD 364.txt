@@ -1,0 +1,1 @@
+{"course_code": "COMD 364", "course_name": "COMD 364-1", "session": [{"session_number": "1", "teacher": "Boran Aksoy   ", "hours": [{"day": "Wed", "start": "10:40", "end": "13:30", "place": " FFB-008", "type": "L"}]}]}

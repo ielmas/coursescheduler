@@ -1,0 +1,1 @@
+{"course_code": "TRIN 465", "course_name": "TRIN 465-1", "session": [{"session_number": "1", "teacher": "Ayşe Şirin Okyayuz   \nAnna Kubaczynska   ", "hours": [{"day": "Wed", "start": "13:40", "end": "15:30", "place": " LA-101", "type": " "}, {"day": "Fri", "start": "13:40", "end": "15:30", "place": " LD-4", "type": "L"}]}]}

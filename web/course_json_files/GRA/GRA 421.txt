@@ -1,0 +1,1 @@
+{"course_code": "GRA 421", "course_name": "GRA 421-1", "session": [{"session_number": "1", "teacher": "Birsu Semra Çeltek   ", "hours": [{"day": "Wed", "start": "13:40", "end": "16:30", "place": " FB-121", "type": "L"}]}]}

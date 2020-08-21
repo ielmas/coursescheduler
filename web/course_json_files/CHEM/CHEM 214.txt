@@ -1,0 +1,1 @@
+{"course_code": "CHEM 214", "course_name": "CHEM 214-1", "session": [{"session_number": "1", "teacher": "Burak Ülgüt   ", "hours": [{"day": "Tue", "start": "8:40", "end": "12:30", "place": " ", "type": "L"}]}]}
