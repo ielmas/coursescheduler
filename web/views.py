@@ -22,7 +22,7 @@ def getDepartments(request):
     files = os.listdir('./web/course_json_files/.')
     data = {}
     data['departments'] = files
-    with open('course_json_files/deparments.txt', 'w', encoding='utf-8') as outfile:
+    with open('./web/course_json_files/deparments.txt', 'w', encoding='utf-8') as outfile:
         json.dump(data, outfile, ensure_ascii=False)
     return JsonResponse(data)
 
