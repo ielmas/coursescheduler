@@ -22,15 +22,17 @@ def getDepartments(request):
     files = os.listdir('./web/course_json_files/.')
     data = {}
     data['departments'] = files
+    with open('course_json_files/deparments.txt', 'w', encoding='utf-8') as outfile:
+        json.dump(data, outfile, ensure_ascii=False)
     return JsonResponse(data)
 
 def getSections(request, department, course_code):
-    with open('course_json_files/'+department+'/'+course_code+'.txt', encoding='utf-8') as json_file:
+    with open('./web/course_json_files/'+department+'/'+course_code+'.txt', encoding='utf-8') as json_file:
         data = json.load(json_file)
     return JsonResponse(data)
 
 def getDepartmentCourses(request, department):
-    with open('course_json_files/'+department+'/courses.txt', encoding='utf-8') as json_file:
+    with open('./web/course_json_files/'+department+'/courses.txt', encoding='utf-8') as json_file:
         data = json.load(json_file)
     return JsonResponse(data)
 
