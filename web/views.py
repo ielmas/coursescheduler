@@ -19,7 +19,7 @@ def index(request):
     return render(request, 'index.html')
 
 def getDepartments(request):
-    files = os.listdir('.\web\course_json_files\.')
+    files = os.listdir('course_json_files')
     data = {}
     data['departments'] = files
     return JsonResponse(data)
