@@ -2,7 +2,7 @@ function init_deparment_and_courses(
   department_select_list,
   course_select_list
 ) {
-  fetch("http://127.0.0.1:8000/api/departments")
+  fetch("http://185.87.253.107:8000/api/departments")
     .then((response) => response.json())
     .then((data) => {
       departments = data["departments"];
@@ -30,7 +30,7 @@ function load_courses(select_list, department) {
   select_list.options.length = 0;
   courses = [];
   json = {};
-  fetch("http://127.0.0.1:8000/api/" + department)
+  fetch("http://185.87.253.107:8000/api/" + department)
     .then((response) => response.json())
     .then((data) => {
       courses = data["courses"];
@@ -52,7 +52,7 @@ function setOptions(course_list, select_list) {
 }
 async function getSections(department, course_code) {
   let response = await fetch(
-    "http://127.0.0.1:8000/api/" + department + "/" + course_code
+    "http://185.87.253.107:8000/api/" + department + "/" + course_code
   );
 
   if (response.ok) {
@@ -398,7 +398,7 @@ async function sendCoursesToGetPlan(
   });
 }
 async function fetchAvaliablePlans(jsonString) {
-  const response = await fetch("http://127.0.0.1:8000/api/getPlan", {
+  const response = await fetch("http://185.87.253.107:8000/api/getPlan", {
     method: "POST", // *GET, POST, PUT, DELETE, etc.
     mode: "cors", // no-cors, *cors, same-origin
     cache: "no-cache", // *default, no-cache, reload, force-cache, only-if-cached
