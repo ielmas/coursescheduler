@@ -46,20 +46,20 @@ body {
 }
 #id_departments {
   background-color: #38b738;
-  width: 20%;
+  /* width: 20%; */
   margin-right: 30px;
   font-size: x-large;
 }
 #id_courses {
   font-size: x-large;
-  width: 22%;
+  /*width: 22%;*/
   background-color: #c97777;
   margin-right: 30px;
 }
 
 #id_add_button {
   font-size: x-large;
-  width: 10%;
+  /*width: 10%;*/
   background-color: #7070fa;
 }
 
