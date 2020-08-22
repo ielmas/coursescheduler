@@ -25,12 +25,12 @@ def getDepartments(request):
     return JsonResponse(data)
 
 def getSections(request, department, course_code):
-    with open('web\\course_json_files\\'+department+'\\'+course_code+'.txt', encoding='utf-8') as json_file:
+    with open('course_json_files/'+department+'/'+course_code+'.txt', encoding='utf-8') as json_file:
         data = json.load(json_file)
     return JsonResponse(data)
 
 def getDepartmentCourses(request, department):
-    with open('web\\course_json_files\\'+department+'\\courses.txt', encoding='utf-8') as json_file:
+    with open('course_json_files/'+department+'/courses.txt', encoding='utf-8') as json_file:
         data = json.load(json_file)
     return JsonResponse(data)
 
@@ -89,13 +89,13 @@ def getHoursList(hours):
     return hours_list
 
 def saveJSON(department, data):
-    if not os.path.exists('course_json_files\\'+department):
-        os.mkdir('course_json_files\\'+department)
-    with open('course_json_files\\'+department+ '\\'+ data['course_code'] +'.txt', 'w', encoding='utf-8') as outfile:
+    if not os.path.exists('course_json_files/'+department):
+        os.mkdir('course_json_files/'+department)
+    with open('course_json_files/'+department+ '/'+ data['course_code'] +'.txt', 'w', encoding='utf-8') as outfile:
         json.dump(data, outfile, ensure_ascii=False)
 
 def saveCoursesJSON(department, courses):
-    with open('course_json_files\\'+department+ '\\courses.txt', 'w', encoding='utf-8') as outfile:
+    with open('course_json_files/'+department+ '/courses.txt', 'w', encoding='utf-8') as outfile:
         json.dump(courses, outfile, ensure_ascii=False)
 def getCoursesAndSaveJson(tbody, department):
     data = {}
@@ -130,7 +130,7 @@ def getCoursesAndSaveJson(tbody, department):
     saveCoursesJSON(department, courses)
 
 def getCourses():
-    chromedriver = 'C:\\Users\\OrduLou\\Desktop\\chrome_driver\\chromedriver.exe'
+    chromedriver = 'C:/Users/OrduLou/Desktop/chrome_driver/chromedriver.exe'
     options = webdriver.ChromeOptions()
     options.add_argument('headless')
     options.add_argument('window-size=1200x600') # optional
